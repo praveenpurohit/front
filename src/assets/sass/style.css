@@ -1,0 +1,81 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.form-container {
+  background-color: white;
+}
+.form-container h1 {
+  padding: 10px;
+  text-align: center;
+  color: black;
+}
+
+.form-input {
+  text-align: left;
+  background-color: white;
+  width: 80%;
+  border-radius: 10px;
+  margin: auto auto auto auto;
+}
+.form-input input {
+  border-radius: 5px;
+  outline: none;
+  margin: 15px 0px 15px;
+  width: 400px;
+  padding: 7px 10px;
+}
+.form-input label {
+  margin: 15px 0px 15px 0px;
+  font-size: larger;
+  text-transform: uppercase;
+}
+
+.logo {
+  width: 50px;
+  margin: 0px 10px 0px 5px;
+  border-radius: 50%;
+}
+
+.btn-svg {
+  width: 30px;
+  margin: 0px 5px 0px 25px;
+}
+
+.navbar {
+  background-color: lightblue;
+}
+
+.profile-btn {
+  margin: 2px 25px 2px 25px;
+  border: none;
+  background-color: transparent;
+  font-size: large;
+}
+
+.nav-ul {
+  padding: 20px;
+  background-color: white;
+  border-bottom: 2px solid black;
+}
+
+.home-btn .product-btn {
+  margin: 0px 10px;
+  border: none;
+  background-color: transparent;
+  font-size: larger;
+}
+.home-btn .product-btn a {
+  color: gray;
+  text-decoration: none;
+  padding: 2px 10px;
+  border-radius: 5px;
+}
+
+.form-section {
+  box-shadow: 0px 0px 10px gray;
+  width: 90%;
+  margin: 30px auto;
+  border-radius: 10px;
+}/*# sourceMappingURL=style.css.map */
